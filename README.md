@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/kinnari-dobariya/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 💫 About Me:
-I am a cybersecurity professional with a strong foundation in both offensive and defensive security. My goal is to become a penetration tester, and I am actively preparing for the Certified Ethical Hacker (CEH) certification to advance toward this career path. In addition to my focus on offensive security, I possess solid experience on the defensive side, including roles as a Security Analyst, where I've worked with tools like Splunk, firewalls, and IDS/IPS systems.
+I am a dedicated cybersecurity professional with comprehensive experience in both offensive and defensive security disciplines. My career goal is to specialize as a penetration tester, and I am actively preparing for the Certified Ethical Hacker (CEH) certification to solidify my offensive security capabilities. In previous roles as a Security Analyst, I have gained extensive hands-on experience working with industry-leading tools such as Splunk, firewalls, and IDS/IPS systems, focusing on threat detection, prevention, and mitigation. My dual expertise in offensive and defensive security positions me as a versatile asset in identifying vulnerabilities and securing critical infrastructures.
 
 ## Fun Fact 
 I love joining CTF competitions because it feels like a real-life video game! I get to flex my hacking skills while solving puzzles, and it’s seriously one of the most exciting ways I learn. Who knew cybersecurity could be so fun?
