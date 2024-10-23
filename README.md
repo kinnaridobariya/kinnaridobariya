@@ -27,7 +27,7 @@ I love joining CTF competitions because it feels like a real-life video game! I 
 | Skill                                        | Associated Project         |
 |----------------------------------------------|----------------------------|
 | Vulnerability Discovery in E-Commerce        | <a href="https://github.com/kinnaridobariya/Vulnerability-Discovery-in-E-Commerce">Project</a> | 
-|Cybersecurity Research Paper                  | <a href="https://github.com/kinnaridobariya/Research-Paper-/edit/main/README.md">Research Papers</a> | 
+|Cybersecurity Research Paper                  | <a href="https://github.com/kinnaridobariya/Research-Paper-">Research Papers</a> | 
 | Network Security Engineering with pfSense and Snort | <a href="https://github.com/kinnaridobariya/Advanced-Hacking-Prevention/blob/main/README.md">Advanced Hacking Prevention</a> |
 | Packet Creation and Attack Simulations       | <a href="https://github.com/kinnaridobariya/Layer-Based-Attack-Simulations">Layer Based Attack Simulation</a>| 
 | Cloud Security and Monitoring                | <a href="https://github.com/kinnaridobariya/AWS-Security-Labs/blob/main/README.md">AWS Security Labs</a> | 
