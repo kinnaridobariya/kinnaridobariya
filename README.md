@@ -80,7 +80,7 @@ I love joining CTF competitions because it feels like a real-life video game! I 
 
 ## Capture the Flag (CTF) Experience
 - Participated in various CTF competitions, including challenges focused on cryptography, network security, and system vulnerabilities.
-- Completed CTFs on platforms like TryHackMe, Hack The Box, and Google's **Crypto** CTF, enhancing problem-solving and offensive security skills.
+- Completed CTFs on platforms like TryHackMe, Hack The Box, and Google's **Crypto** CTF, Meta October 2024,  enhancing problem-solving and offensive security skills.
 - Participated in Women in cyber security's 2 different CTFs organized by SANS and team Target.
 
 ## Memberships and Volunteering
